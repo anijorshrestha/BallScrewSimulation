@@ -1,10 +1,15 @@
-# BallScrewSimulation
+# Ball Screw Simulation
 Simulation of BallScrew
-
-## Part of work I have been doing.
-1. Upload .mat file
 
 
 ## This is how it looks like
 
-<img src ="Main.PNG" width ="700"/>
+# 1. Mesh and Intersect Point
+<img src ="mesh.PNG" width ="700"/>
+
+# 2. Gradient Temperature
+<img src ="gradient.PNG" width ="700"/>
+
+# 3. X displacement
+<img src ="x.PNG" width ="700"/>
+
